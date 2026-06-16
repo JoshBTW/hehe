@@ -1,0 +1,6 @@
+{
+  "name": "Love Story Journal",
+  "description": "A beautiful, interactive sequential memory journal and scrapbook for displaying love notes, memories, and photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
